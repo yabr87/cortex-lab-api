@@ -1,1 +1,3 @@
-# cortex-lab-api
+# node.js app for CortexLAB
+
+npm start
